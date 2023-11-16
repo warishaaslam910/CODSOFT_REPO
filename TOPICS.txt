@@ -1,0 +1,10 @@
+TOPICS:
+1- create your own api with mongodb using node js
+2- crud operations
+3- ecommerce project.
+4- live playstore application.
+5- provider 
+6- bloc
+7- getx
+8- model view mv architecture
+
